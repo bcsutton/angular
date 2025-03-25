@@ -495,6 +495,7 @@ groups:
         - tbondwilkinson # Tom Wilkinson
         - rahatarmanahmed # Rahat Ahmed
         - ENAML # Ethan Cline
+        - bcsutton # Blake Sutton
     labels:
       pending: 'requires: TGP'
       approved: 'requires: TGP'
